@@ -1,0 +1,15 @@
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3.csproj.AssemblyReference.cache
+E:\YP\Practica-3\Practica-3\obj\Debug\MainWindow.g.cs
+E:\YP\Practica-3\Practica-3\obj\Debug\App.g.cs
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3_MarkupCompile.cache
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3_MarkupCompile.lref
+E:\YP\Practica-3\Practica-3\bin\Debug\Practica-3.exe.config
+E:\YP\Practica-3\Practica-3\bin\Debug\Practica-3.exe
+E:\YP\Practica-3\Practica-3\bin\Debug\Practica-3.pdb
+E:\YP\Practica-3\Practica-3\obj\Debug\MainWindow.baml
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3.g.resources
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica_3.Properties.Resources.resources
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3.csproj.GenerateResource.cache
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3.csproj.CoreCompileInputs.cache
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3.exe
+E:\YP\Practica-3\Practica-3\obj\Debug\Practica-3.pdb

@@ -1,0 +1,14 @@
+E:\YP\Practica-3\DopZadanie1\bin\Debug\DopZadanie1.exe.config
+E:\YP\Practica-3\DopZadanie1\bin\Debug\DopZadanie1.exe
+E:\YP\Practica-3\DopZadanie1\bin\Debug\DopZadanie1.pdb
+E:\YP\Practica-3\DopZadanie1\obj\Debug\MainWindow.g.cs
+E:\YP\Practica-3\DopZadanie1\obj\Debug\App.g.cs
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1_MarkupCompile.cache
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1_MarkupCompile.lref
+E:\YP\Practica-3\DopZadanie1\obj\Debug\MainWindow.baml
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1.g.resources
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1.Properties.Resources.resources
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1.csproj.GenerateResource.cache
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1.csproj.CoreCompileInputs.cache
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1.exe
+E:\YP\Practica-3\DopZadanie1\obj\Debug\DopZadanie1.pdb
